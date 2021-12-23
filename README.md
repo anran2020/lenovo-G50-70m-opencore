@@ -31,6 +31,7 @@ Boot start macOS：Big Sur（can also be Boot start Monterey,But there maybe som
 - HDMI output
 - Nuclear display acceleration
 - Battery status
+- sleep/wake
 - ...
 - ...
 
