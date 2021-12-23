@@ -67,7 +67,7 @@ card id into the bios. For this part of the question, there will be a separate t
 
 
 ### Contect me
-If you encounter any problems during this period, you can email me or go to the forum for help.
+If you encounter any problems during this period, you can email me or go to the [forum](https://www.tonymacx86.com/threads/guide-lenovo-z50-70-z40-70-g50-70-g40-70-using-clover-uefi.261787/) for help.
 
 e-mail: kaiup6@gamil.com
 
