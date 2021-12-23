@@ -41,25 +41,20 @@ Boot start macOS：Big Sur（can also be Boot start Monterey,But there maybe som
 
 
 ### Screenshot  
-![](https://pic.imgdb.cn/item/61c4496a2ab3f51d919b13c8.png)
+<img width="698" alt="WeChat51f065c064275773be0759decbe75e60" src="https://user-images.githubusercontent.com/61401619/147232962-ee505eb3-3b35-4089-86d0-ef9a10ff32da.png">
+
+<img width="1280" alt="截屏2021-12-23 14 50 49" src="https://user-images.githubusercontent.com/61401619/147233075-71820e54-adfc-443d-ae61-3531ffa850d7.png">
 
 
-![](https://pic.imgdb.cn/item/61c41cea2ab3f51d91861fdf.png)
+<img width="1271" alt="WeChat4ad293db781322d7d666d2b90e5d8076" src="https://user-images.githubusercontent.com/61401619/147232974-3f91a5cc-700d-4511-8f0a-16744c83a559.png">
+
+<img width="1289" alt="WeChatede2d6ff3b49c05d8812e71f4fb9a954" src="https://user-images.githubusercontent.com/61401619/147232984-019e8d7f-bddf-459f-bddd-ff188deff623.png">
 
 
-![](https://pic.imgdb.cn/item/61c41cea2ab3f51d91861fe8.png)
+<img width="1266" alt="WeChat955775ed0e2bb32bb26a837e5e75752f" src="https://user-images.githubusercontent.com/61401619/147233003-56d1c251-0b13-46fd-8eb6-29f3f582c7b1.png">
 
 
-![](https://pic.imgdb.cn/item/61c44a2d2ab3f51d919b6617.png)
-
-
-![](https://pic.imgdb.cn/item/61c44a752ab3f51d919b80d0.png)
-
-
-![](https://pic.imgdb.cn/item/61c44ab52ab3f51d919b96cf.png)
-
-
-### lenovo Old model bios whitelist
+### lenovo old model bios whitelist
 As far as I know, older HP and Lenovo computers have bios whitelist restrictions, which means that the wireless network card 
 cannot be directly upgraded or replaced. There are two methods:
 
@@ -76,4 +71,3 @@ If you encounter any problems during this period, you can email me or go to the 
 
 e-mail: kaiup6@gamil.com
 
-<img width="698" alt="WeChat51f065c064275773be0759decbe75e60" src="https://user-images.githubusercontent.com/61401619/147232844-bda5a84e-166d-486e-ad20-b3dddf09f83a.png">
