@@ -37,7 +37,7 @@ Boot start macOS：Big Sur（can also be Boot start Monterey,But there maybe som
 
 ### Anomaly items:
 - Touchpad buttons
-- Brightness adjustment (button adjustment)
+- Brightness adjustment (F11/F12)
 - ...
 
 
