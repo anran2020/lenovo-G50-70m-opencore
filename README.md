@@ -64,7 +64,7 @@ cannot be directly upgraded or replaced. There are two methods:
 - Delete the whitelist module
 - Write the hardware ID of the wireless network card that needs to be replaced and upgraded into the bios whitelist
 
-Both methods involve brushing bios, so they are risky. I prefer to choose the first one, because the whitelist restriction 
+Both methods involve brushing bios, so they are dangerous. I prefer to choose the first one, because the whitelist restriction 
 has been removed, and the network card needs to be replaced in the future, and there is no need to rewrite the new network 
 card id into the bios. For this part of the question, there will be a separate tutorial, you can go to see if you need it.
 
@@ -72,5 +72,5 @@ card id into the bios. For this part of the question, there will be a separate t
 ### Contect me
 If you encounter any problems during this period, you can email me or go to the [forum](https://www.tonymacx86.com/threads/guide-lenovo-z50-70-z40-70-g50-70-g40-70-using-clover-uefi.261787/) for help.
 
-e-mail: kaiup6@gamil.com
+e-mail: kaqiup6@gamil.com
 
