@@ -75,3 +75,5 @@ card id into the bios. For this part of the question, there will be a separate t
 If you encounter any problems during this period, you can email me or go to the forum for help.
 
 e-mail: kaiup6@gamil.com
+
+<img width="698" alt="WeChat51f065c064275773be0759decbe75e60" src="https://user-images.githubusercontent.com/61401619/147232844-bda5a84e-166d-486e-ad20-b3dddf09f83a.png">
