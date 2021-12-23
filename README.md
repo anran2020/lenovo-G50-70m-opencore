@@ -1,4 +1,4 @@
-# Lenovo G50-70 opencore-0.7.7
+# Lenovo G50-70m opencore-0.7.7
 
 [中文请移步](https://markipop.github.io/posts/ff690038/)
 
