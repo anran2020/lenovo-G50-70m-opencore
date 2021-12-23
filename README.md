@@ -1,4 +1,4 @@
-# 联想/lenovo 50-70 0.7.7oc引导
+# 联想（lenovo）G50-70 opencore-0.7.7
 
 [中文请移步](https://markipop.github.io/posts/ff690038/)
 
