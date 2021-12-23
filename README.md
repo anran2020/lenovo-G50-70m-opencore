@@ -17,7 +17,7 @@ Model : lenovo G50-70m
 | Audio            | Intel Lynx Point-LP PCH（ Conexant CX20751/CX20752） |
 
 oc version: 0.7.7
-Boot start macOS：Big Sur（can alsobe Monterey,But there may be some problems with the Bluetooth function）
+Boot start macOS：Big Sur（can also be Boot start Monterey,But there maybe some problems with the Bluetooth function）
 
 
 Normal items:
