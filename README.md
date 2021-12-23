@@ -40,16 +40,21 @@ Boot start macOS：Big Sur（can also be Boot start Monterey,But there maybe som
 - ...
 
 
-### Screenshot
+### Screenshot  
 ![](https://pic.imgdb.cn/item/61c4496a2ab3f51d919b13c8.png)
 
-![oc ver](https://pic.imgdb.cn/item/61c41cea2ab3f51d91861fdf.png)
+
+![](https://pic.imgdb.cn/item/61c41cea2ab3f51d91861fdf.png)
+
 
 ![](https://pic.imgdb.cn/item/61c41cea2ab3f51d91861fe8.png)
 
+
 ![](https://pic.imgdb.cn/item/61c44a2d2ab3f51d919b6617.png)
 
+
 ![](https://pic.imgdb.cn/item/61c44a752ab3f51d919b80d0.png)
+
 
 ![](https://pic.imgdb.cn/item/61c44ab52ab3f51d919b96cf.png)
 
