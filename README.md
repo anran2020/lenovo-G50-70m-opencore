@@ -1,6 +1,6 @@
 # Lenovo G50-70m opencore-0.7.7
 
-[中文请移步](https://markipop.github.io/posts/ff690038/)
+[中文请移步](https://blogg.kaqiup.xyz/posts/ff690038/#)
 
 
 [English Guide]
